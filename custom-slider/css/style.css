@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+.slider-container .slider-item {
+  display: none;
+  overflow: hidden; }
+.slider-container .nav-container a {
+  padding: 10px; }
+
+/*# sourceMappingURL=style.css.map */

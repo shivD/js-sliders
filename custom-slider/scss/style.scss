@@ -1,0 +1,9 @@
+*{ padding:0; margin: 0;}
+.slider-container{
+    .slider-item{ display: none;  overflow: hidden;}
+    .nav-container{
+        a{
+            padding: 10px;
+        }
+    }
+}
